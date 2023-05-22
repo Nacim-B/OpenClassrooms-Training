@@ -1,0 +1,10 @@
+total 40
+drwxrwxr-x@  9 pctest  staff   288 May 22 13:17 .
+drwxr-xr-x  10 pctest  staff   320 May 22 13:15 ..
+drwxrwxr-x@  4 pctest  staff   128 Jun 27  2019 2019
+-rw-rw-r--@  1 pctest  staff    50 Jun 27  2019 fichier.txt
+-rw-rw-r--@  1 pctest  staff  7578 May  9  2019 image.png
+-rw-r--r--   1 pctest  staff     0 May 22 13:17 liste.txt
+-rw-rw-r--@  1 pctest  staff  5907 May 16  2019 lorem.txt
+drwxrwxr-x@  2 pctest  staff    64 Jun 28  2019 test
+-rw-rw-r--@  1 pctest  staff     0 Jun 28  2019 test2
